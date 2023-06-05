@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengyu Bu"
 title_separator          : "-"
 name                     : &name "Mengyu Bu"
-description              : &description "undergraduate student of computer science and technology, Beijing Institute of Technology"
+description              : &description "Undergraduate student of computer science and technology, Beijing Institute of Technology"
 url                      : https://bingo123122121.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bingo123122121/bingo123122121.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mengyu Bu"
   avatar           : "profile.jpg"
-  bio              : "undergraduate student of computer science and technology, Beijing Institute of Technology"
+  bio              : "Undergraduate student of computer science and technology, Beijing Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2019.9-present Beijing Institute of Technology, Undergraduate
-* 2022.9-present Institute of Computing Technology, Chinese Academy of Sciences, Intern
+* School of Computer Science and Technology, Beijing Institute of Technology, Undergraduate, 2019.9-present
+* Institute of Computing Technology, Chinese Academy of Sciences, Intern, 2022.9-present
 
 Selected Awards
 ======

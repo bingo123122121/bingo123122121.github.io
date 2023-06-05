@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2023 (expected)
+* 2019.9-present Beijing Institute of Technology, Undergraduate
+* 2022.9-present Institute of Computing Technology, Chinese Academy of Sciences, Intern
 
 Selected Awards
 ======

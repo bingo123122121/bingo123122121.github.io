@@ -14,11 +14,26 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
+[Publications](publications.md)
+<br>
+<br>
+[Talks](talks.html)
+<br>
+<br>
+[Teaching](teaching.html)
+<br>
+<br>
+[Blog Posts](year-archive.html)
+<br>
+<br>
+[CV](cv.md)
+
 <h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
 
+<!--
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -35,3 +50,4 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% endunless %}
 {% endfor %}
 {% endfor %}
+-->

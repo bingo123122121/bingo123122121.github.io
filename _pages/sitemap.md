@@ -14,7 +14,7 @@ A list of all the posts and pages found on the site. For you robots out there is
   {% include archive-single.html %}
 {% endfor %}
 
-[Publications](publications.md)
+<!-- [Publications](publications.md)
 <br>
 <br>
 [Talks](talks.html)
@@ -26,7 +26,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 [Blog Posts](year-archive.html)
 <br>
 <br>
-[CV](cv.md)
+[CV](cv.md) -->
 
 <h2>Posts</h2>
 {% for post in site.posts %}

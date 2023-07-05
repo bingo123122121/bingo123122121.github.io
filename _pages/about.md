@@ -22,7 +22,7 @@ Preprint
 ======
 **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models** \
 Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, **Mengyu Bu**, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng \
-[Paper](https://arxiv.org/abs/2306.10968)/ [Code](https://github.com/ictnlp/BayLing)/ [Demo](http://nlp.ict.ac.cn/bayling/demo/)/ [Project Page](https://nlp.ict.ac.cn/bayling)
+[Paper](https://arxiv.org/abs/2306.10968) / [Code](https://github.com/ictnlp/BayLing) / [Demo](http://nlp.ict.ac.cn/bayling/demo/) / [Project Page](https://nlp.ict.ac.cn/bayling)
 
 Selected Awards
 ======

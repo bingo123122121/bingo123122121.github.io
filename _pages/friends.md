@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* [Yan Zhou](https://zhouyan19.github.io/zhouyan/)
 * [Yuhang Lai](https://halfrot.github.io/)
 * [Yifan Li](https://aoidragon.github.io/)
 * Yupu Hao

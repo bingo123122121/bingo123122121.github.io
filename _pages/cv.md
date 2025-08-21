@@ -37,7 +37,7 @@ Publication
 
 **MoCE: Adaptive Mixture of Contextualization Experts for Byte-based Neural Machine Translation** \
 Langlin Huang, **Mengyu Bu**, Yang Feng \
-*NAACL 2025 Main Conference*
+*NAACL 2025 Main Conference* \
 [Paper](https://aclanthology.org/2025.naacl-long.47/) / [Code](https://github.com/ictnlp/MoCE)
 
 **Improving Multilingual Neural Machine Translation by Utilizing Semantic and Linguistic Features** \

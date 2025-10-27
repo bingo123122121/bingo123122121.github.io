@@ -9,31 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+:school:Education
 ======
-School of Computer Science and Technology, Beijing Institute of Technology, Undergraduate, 2019.9-2023.6
+:round_pushpin:School of Computer Science and Technology, Beijing Institute of Technology, Undergraduate, 2019.9-2023.6
 
-Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, 2023.9-present
+:round_pushpin:Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, 2023.9-present
 
-News
+:fire:News
 ======
-[2025.8] One first-author paper about enhancing LLM's multilingual capability is accepted to EMNLP2025 Main Conference!
+[2025.11:rocket:] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
 
-[2025.1] One paper about byte-based multilingual neural machine translation is accepted to MAACL2025 Main Conference!
+[2025.8🎉] One first-author paper about enhancing LLM's multilingual capability is accepted to EMNLP2025 Main Conference!
 
-[2024.5] One first-author paper about multilingual neural machine translation is accepted to ACL2024 Findings!
+[2025.1🎉] One paper about byte-based multilingual neural machine translation is accepted to MAACL2025 Main Conference!
 
-[2023.9] I start my Ph.D. life at the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn/))!
+[2024.5🎉] One first-author paper about multilingual neural machine translation is accepted to ACL2024 Findings!
 
-[2023.6] I obtain my B.E. degree from Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/))!
+[2023.9👏] I start my Ph.D. life at the University of Chinese Academy of Sciences ([UCAS](https://www.ucas.ac.cn/))!
 
-[2023.6] Our LLM BayLing (百聆) is released! BayLing is an instruction-following LLM with advanced language alignment and multi-turn interaction capability. Read our [paper](https://arxiv.org/abs/2306.10968) and try our online [demo](http://nlp.ict.ac.cn/bayling/demo/)! Thanks to all collaborators!
+[2023.6👏] I obtain my B.E. degree from Beijing Institute of Technology ([BIT](https://www.bit.edu.cn/))!
 
-Publication
+[2023.6🎉] Our LLM BayLing (百聆) is released! BayLing is an instruction-following LLM with advanced language alignment and multi-turn interaction capability. Read our [paper](https://arxiv.org/abs/2306.10968) and try our online [demo](http://nlp.ict.ac.cn/bayling/demo/)! Thanks to all collaborators!
+
+:bookmark_tabs: Publication
 ======
 **AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment** \
 **Mengyu Bu**, Shaolei Zhang, Zhongjun He, Hua Wu, Yang Feng \
 *EMNLP 2025 Main Conference*
+[Paper](https://arxiv.org/abs/2509.24338) / [Code](https://github.com/ictnlp/AlignX)
 
 **MoCE: Adaptive Mixture of Contextualization Experts for Byte-based Neural Machine Translation** \
 Langlin Huang, **Mengyu Bu**, Yang Feng \
@@ -45,13 +48,13 @@ Langlin Huang, **Mengyu Bu**, Yang Feng \
 *Findings of ACL 2024* \
 [Paper](https://aclanthology.org/2024.findings-acl.620) / [Code](https://github.com/ictnlp/SemLing-MNMT)
 
-Preprint
+:memo: Preprint
 ======
 **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models** \
 Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, **Mengyu Bu**, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng \
 [Paper](https://arxiv.org/abs/2306.10968) / [Code](https://github.com/ictnlp/BayLing) / [Demo](http://nlp.ict.ac.cn/bayling/demo/) / [Project Page](https://nlp.ict.ac.cn/bayling)
 
-Selected Awards
+:trophy:Selected Awards
 ======
 Beijing outstanding graduate, 2023
 
@@ -59,12 +62,12 @@ Excellent Student Cadre, Beijing Institute of Technology, 2022
 
 National Scholarship, Beijing Institute of Technology, 2020
 
-Skills
+:hotsprings:Skills
 ======
 Programming: C/C++, Python
 
 Framework: Pytorch, Fairseq, Transformers
 
-Hobbies
+:telescope:Hobbies
 ======
-I enjoy photography, badminton and trekking.
+I enjoy photography:camera:, badminton:badminton: and trekking:walking:.

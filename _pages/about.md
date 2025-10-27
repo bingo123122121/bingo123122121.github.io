@@ -14,7 +14,7 @@ My main research interests are **multilingual large language model (LLM)** and *
 
 🔥News
 ======
-[2025.11:rocket:] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
+[2025.11🚀] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
 
 [2025.8🎉] One first-author paper about enhancing LLM's multilingual capability is accepted to EMNLP2025 Main Conference!
 

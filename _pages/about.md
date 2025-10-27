@@ -12,7 +12,7 @@ I'm a third-year Ph.D. student at the Institute of Computing Technology, Chinese
 
 My main research interests are **multilingual large language model (LLM)** and **multilingual neural machine translation (MNMT)**.
 
-:fire:News
+🔥News
 ======
 [2025.11:rocket:] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
 
@@ -28,7 +28,7 @@ My main research interests are **multilingual large language model (LLM)** and *
 
 [2023.6🎉] Our LLM BayLing (百聆) is released! BayLing is an instruction-following LLM with advanced language alignment and multi-turn interaction capability. Read our [paper](https://arxiv.org/abs/2306.10968) and try our online [demo](http://nlp.ict.ac.cn/bayling/demo/)! Thanks to all collaborators!
 
-:bookmark_tabs: Publications
+📑Publication
 ======
 **AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment** \
 **Mengyu Bu**, Shaolei Zhang, Zhongjun He, Hua Wu, Yang Feng \
@@ -45,7 +45,7 @@ Langlin Huang, **Mengyu Bu**, Yang Feng \
 *Findings of ACL 2024* \
 [Paper](https://aclanthology.org/2024.findings-acl.620) / [Code](https://github.com/ictnlp/SemLing-MNMT)
 
-:memo: Preprint
+📝Preprint
 ======
 **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models** \
 Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, **Mengyu Bu**, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng \

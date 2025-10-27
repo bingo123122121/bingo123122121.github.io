@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-:school:Education
+🏫Education
 ======
-:round_pushpin:School of Computer Science and Technology, Beijing Institute of Technology, Undergraduate, 2019.9-2023.6
+📍School of Computer Science and Technology, Beijing Institute of Technology, Undergraduate, 2019.9-2023.6
 
-:round_pushpin:Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, 2023.9-present
+📍Institute of Computing Technology, Chinese Academy of Sciences, Ph.D. Student, 2023.9-present
 
-:fire:News
+🔥News
 ======
 [2025.11:rocket:] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
 
@@ -31,7 +31,7 @@ redirect_from:
 
 [2023.6🎉] Our LLM BayLing (百聆) is released! BayLing is an instruction-following LLM with advanced language alignment and multi-turn interaction capability. Read our [paper](https://arxiv.org/abs/2306.10968) and try our online [demo](http://nlp.ict.ac.cn/bayling/demo/)! Thanks to all collaborators!
 
-:bookmark_tabs: Publication
+📑Publication
 ======
 **AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment** \
 **Mengyu Bu**, Shaolei Zhang, Zhongjun He, Hua Wu, Yang Feng \
@@ -48,13 +48,13 @@ Langlin Huang, **Mengyu Bu**, Yang Feng \
 *Findings of ACL 2024* \
 [Paper](https://aclanthology.org/2024.findings-acl.620) / [Code](https://github.com/ictnlp/SemLing-MNMT)
 
-:memo: Preprint
+📝Preprint
 ======
 **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models** \
 Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, **Mengyu Bu**, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng \
 [Paper](https://arxiv.org/abs/2306.10968) / [Code](https://github.com/ictnlp/BayLing) / [Demo](http://nlp.ict.ac.cn/bayling/demo/) / [Project Page](https://nlp.ict.ac.cn/bayling)
 
-:trophy:Selected Awards
+🏆Selected Awards
 ======
 Beijing outstanding graduate, 2023
 
@@ -62,12 +62,12 @@ Excellent Student Cadre, Beijing Institute of Technology, 2022
 
 National Scholarship, Beijing Institute of Technology, 2020
 
-:hotsprings:Skills
+♨️Skills
 ======
 Programming: C/C++, Python
 
 Framework: Pytorch, Fairseq, Transformers
 
-:telescope:Hobbies
+🔭Hobbies
 ======
-I enjoy photography:camera:, badminton:badminton: and trekking:walking:.
+I enjoy photography📷, badminton🏸 and trekking🚶.

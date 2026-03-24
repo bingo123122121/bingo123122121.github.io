@@ -14,6 +14,8 @@ My main research interests are **multilingual large language model (LLM)** and *
 
 🔥News
 ======
+[2026.3🎉] We release XBridge, a compositional encoder-LLM-decoder architecture for extensible multilinguality. Read our [paper](https://arxiv.org/abs/2603.17512) for details!
+
 [2025.11🚀] Excited to attend EMNLP 2025 in Suzhou! I’ll be presenting our paper *AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment* at the poster session on Friday, November 7, 10:30–12:00.
 
 [2025.8🎉] One first-author paper about enhancing LLM's multilingual capability is accepted to EMNLP2025 Main Conference!
@@ -32,7 +34,7 @@ My main research interests are **multilingual large language model (LLM)** and *
 ======
 **AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment** \
 **Mengyu Bu**, Shaolei Zhang, Zhongjun He, Hua Wu, Yang Feng \
-*EMNLP 2025 Main Conference*
+*EMNLP 2025 Main Conference* \
 [Paper](https://arxiv.org/abs/2509.24338) / [Code](https://github.com/ictnlp/AlignX)
 
 **MoCE: Adaptive Mixture of Contextualization Experts for Byte-based Neural Machine Translation** \
@@ -47,6 +49,10 @@ Langlin Huang, **Mengyu Bu**, Yang Feng \
 
 📝Preprint
 ======
+***Language on Demand, Knowledge at Core*: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality** \
+**Mengyu Bu**, Yang Feng \
+[Paper](https://arxiv.org/abs/2603.17512) / [Code](https://github.com/ictnlp/XBridge)
+
 **BayLing: Bridging Cross-lingual Alignment and Instruction Following through Interactive Translation for Large Language Models** \
 Shaolei Zhang, Qingkai Fang, Zhuocheng Zhang, Zhengrui Ma, Yan Zhou, Langlin Huang, **Mengyu Bu**, Shangtong Gui, Yunji Chen, Xilin Chen, Yang Feng \
 [Paper](https://arxiv.org/abs/2306.10968) / [Code](https://github.com/ictnlp/BayLing) / [Demo](http://nlp.ict.ac.cn/bayling/demo/) / [Project Page](https://nlp.ict.ac.cn/bayling)

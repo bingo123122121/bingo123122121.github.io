@@ -14,7 +14,7 @@ My main research interests are **multilingual large language model (LLM)** and *
 
 🔥News
 ======
-[2026.4🎉] Our XBridge is accepted to ACL2026 Main Conference!
+[2026.4🎉] Our XBridge is accepted to ACL 2026 Main Conference!
 
 [2026.3🎉] We release XBridge, a compositional encoder-LLM-decoder architecture for extensible multilinguality. Read our [paper](https://arxiv.org/abs/2603.17512) for details!
 
@@ -37,7 +37,7 @@ My main research interests are **multilingual large language model (LLM)** and *
 ***Language on Demand, Knowledge at Core*: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality** \
 **Mengyu Bu**, Yang Feng \
 *ACL 2026 Main Conference* \
-[Paper](https://arxiv.org/abs/2603.17512) / [Code](https://github.com/ictnlp/XBridge)
+[Paper](https://arxiv.org/abs/2603.17512) / [Code](https://github.com/ictnlp/XBridge) / [Model](https://huggingface.co/collections/ICTNLP/xbridge)
 
 **AlignX: Advancing Multilingual Large Language Models with Multilingual Representation Alignment** \
 **Mengyu Bu**, Shaolei Zhang, Zhongjun He, Hua Wu, Yang Feng \
